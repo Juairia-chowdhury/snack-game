@@ -15,7 +15,7 @@ Before running the game, make sure you have the following installed:
 ## Getting Started :::::--->>>
 INputyour Name and start a snack game .
 Chose the interasted Number . 
-AND 
+
 
 ## Controls ::::-->
 
