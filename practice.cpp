@@ -65,8 +65,6 @@ void GameRender(string playerName)
 	cout << playerName << "'s Score: " << playerScore
 		<< endl;
 }
-
-// Function for updating the game state
 void UpdateGame()
 {
 	int prevX = snakeTailX[0];
@@ -100,8 +98,6 @@ void UpdateGame()
 	}
 	if (x >= width || x < 0 || y >= height || y < 0)
 		isGameOver = true;
-
-	// Checks for collision with the tail (o)
 	for (int i = 0; i < snakeTailLen; i++) {
 		if (snakeTailX[i] == x && snakeTailY[i] == y)
 			isGameOver = true;
