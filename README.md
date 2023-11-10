@@ -1,6 +1,6 @@
 # Snack Game
-## NAME:JUAIRIA CHOWDHURY
-## ID:: 222-115-233
+## NAME : JUAIRIA CHOWDHURY
+## ID :  222-115-233
 
 Welcome to the Snack Game project! This is a simple console-based game written in C++.
 
