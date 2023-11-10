@@ -14,4 +14,7 @@ Before running the game, make sure you have the following installed:
 
 ## Getting Started
 
-C:\Users\FC\Pictures\Screenshots\Screenshot (515).png
+
+![Screenshot (517)](https://github.com/Juairia-chowdhury/snack-game/assets/142811842/395cdb8c-f004-47af-b91b-d229a968754a)
+![Screenshot (514)](https://github.com/Juairia-chowdhury/snack-game/assets/142811842/57ddbabd-c0bb-4699-a84f-8f01d2d78557)
+![Screenshot (516)](https://github.com/Juairia-chowdhury/snack-game/assets/142811842/ffed8c02-9569-4823-8775-f6bc3d94cadb)
