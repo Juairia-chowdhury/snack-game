@@ -98,8 +98,6 @@ void UpdateGame()
 		y++;
 		break;
 	}
-
-	// Checks for snake's collision with the wall (|)
 	if (x >= width || x < 0 || y >= height || y < 0)
 		isGameOver = true;
 
@@ -117,8 +115,6 @@ void UpdateGame()
 		snakeTailLen++;
 	}
 }
-
-// Function to set the game difficulty level
 int SetDifficulty()
 {
 	int dfc, choice;
@@ -142,13 +138,9 @@ int SetDifficulty()
 	}
 	return dfc;
 }
-
-// Function to handle user UserInput
 void UserInput()
 {
-	// Checks if a key is pressed or not
 	if (_kbhit()) {
-		// Getting the pressed key
 		switch (_getch()) {
 		case 'a':
 			sDir = LEFT;
@@ -169,7 +161,6 @@ void UserInput()
 	}
 }
 
-// Main function / game looping function
 int main()
 {
 	string playerName;
@@ -182,9 +173,7 @@ int main()
 		GameRender(playerName);
 		UserInput();
 		UpdateGame();
-		// creating a delay for according to the chosen
-		// difficulty
-		Sleep(dfc);
+	        Sleep(dfc);
 	}
 
 	return 0;
