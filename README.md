@@ -23,11 +23,16 @@ Chose the interasted Number .
 
 Use the arrow keys to control the snake's direction:
 
-Up arrow : Move the snake up use --> "w"
-Down arrow : Move the snake down use -->  "s"
-Left arrow: Move the snake left use -->  "a"
-Right arrow: Move the snake right -->   "d" 
-Game over : use the --> "x"
+Up arrow : Move the snake up use --> "w" .
+
+Down arrow : Move the snake down use -->  "s".
+
+Left arrow: Move the snake left use -->  "a".
+
+Right arrow: Move the snake right -->   "d".
+
+Game over : use the --> "x".
+
 ## RUN :: -->>
 ![Screenshot (514)](https://github.com/Juairia-chowdhury/snack-game/assets/142811842/57ddbabd-c0bb-4699-a84f-8f01d2d78557)
 ![Screenshot (516)](https://github.com/Juairia-chowdhury/snack-game/assets/142811842/ffed8c02-9569-4823-8775-f6bc3d94cadb)
