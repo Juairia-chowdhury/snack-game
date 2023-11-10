@@ -1,4 +1,4 @@
-# Snack Game
+# Snakes  Game
 ## NAME : JUAIRIA CHOWDHURY
 ## ID :  222-115-233
 
